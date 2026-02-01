@@ -1,3 +1,7 @@
+window.addEventListener("DOMContentLoaded", () => {
+    const video = document.getElementById("banner");
+    video.style.display = "none";
+});
 const answers_no = {
     english: [
         "No",
